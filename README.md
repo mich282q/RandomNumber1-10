@@ -7,3 +7,7 @@
 #Funktion
 
 Den tager random number from 1 to 10
+
+Author:
+
+Michael Trans
